@@ -1,0 +1,1 @@
+Learn about simple modal with JavaScript
