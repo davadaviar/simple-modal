@@ -6,3 +6,16 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.modal-button {
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 6px;
+    border: none;
+    background-color: #1363DF;
+    color: white;
+    margin: 60px;
+    cursor: pointer;
+}
+
